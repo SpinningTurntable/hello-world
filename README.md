@@ -1,2 +1,5 @@
 # hello-world
-Hello
+Hello!
+This is SpinningTurntable!
+
+I hope one day humans will colonize other planets.
